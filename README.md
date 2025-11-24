@@ -268,8 +268,6 @@ Have questions or suggestions?
 
 ---
 
-**Made with ❤️ and AI**
-
 If you found this project helpful, please give it a ⭐!
 
 [⬆ Back to Top](#-ai-fashion-stylist)
